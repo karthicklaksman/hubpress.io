@@ -11,7 +11,7 @@
   "urls": {
     "site": "https://karthicklaksman.github.io/projects.io",
     "hubpress": "https://karthicklaksman.github.io/projects.io",
-    "theme": "//karthicklaksman.github.io/projects.io/themes/uno-zen",
+    "theme": "//karthicklaksman.github.io/projects.io/themes/uno",
     "images": "https://karthicklaksman.github.io/projects.io/images"
   },
   "initialisationConfigComponent": {
@@ -26,8 +26,8 @@
   },
   "site": {
     "title": "Karthick Lakshmanan",
-    "description": "",
-    "logo": "",
+    "description": "Data science  |  Programming  |  Biology",
+    "logo": "https://avatars0.githubusercontent.com/u/1396943?s=400&u=6f434c11a8e12f730814cf2f6f124173ac11c33e&v=4",
     "cover": "",
     "delay": "",
     "postsPerPage": "",
