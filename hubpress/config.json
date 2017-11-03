@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "roon"
+    "name": "saga"
   },
   "urls": {
     "site": "https://karthicklaksman.github.io/projects.io",
     "hubpress": "https://karthicklaksman.github.io/projects.io",
-    "theme": "//karthicklaksman.github.io/projects.io/themes/ichi",
+    "theme": "//karthicklaksman.github.io/projects.io/themes/roon",
     "images": "https://karthicklaksman.github.io/projects.io/images"
   },
   "initialisationConfigComponent": {
