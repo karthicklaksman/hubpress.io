@@ -6,13 +6,13 @@
     "cname": ""
   },
   "theme": {
-    "name": "uno-zen"
+    "name": "uno"
   },
   "urls": {
-    "site": "http://KLblog",
+    "site": "https://karthicklaksman.github.io/projects.io",
     "hubpress": "https://karthicklaksman.github.io/projects.io",
-    "theme": "//KLblog/themes/uno-zen",
-    "images": "http://KLblog/images"
+    "theme": "//karthicklaksman.github.io/projects.io/themes/uno-zen",
+    "images": "https://karthicklaksman.github.io/projects.io/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
