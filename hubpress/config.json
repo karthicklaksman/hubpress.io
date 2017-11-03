@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "the-shell"
+    "name": "uno-zen"
   },
   "urls": {
     "site": "https://karthicklaksman.github.io/projects.io",
     "hubpress": "https://karthicklaksman.github.io/projects.io",
-    "theme": "//karthicklaksman.github.io/projects.io/themes/saga",
+    "theme": "//karthicklaksman.github.io/projects.io/themes/the-shell",
     "images": "https://karthicklaksman.github.io/projects.io/images"
   },
   "initialisationConfigComponent": {
