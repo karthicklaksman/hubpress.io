@@ -5,6 +5,22 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://karthicklaksman.github.io/projects.io",
+    "hubpress": "https://karthicklaksman.github.io/projects.io",
+    "theme": "//karthicklaksman.github.io/projects.io/themes/casper",
+    "images": "https://karthicklaksman.github.io/projects.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
