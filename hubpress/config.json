@@ -3,16 +3,16 @@
     "username": "karthicklaksman",
     "repositoryName": "projects.io",
     "branch": "gh-pages",
-    "cname": "KLblog"
+    "cname": ""
   },
   "theme": {
     "name": "uno-zen"
   },
   "urls": {
-    "site": "https://karthicklaksman.github.io/projects.io",
+    "site": "http://KLblog",
     "hubpress": "https://karthicklaksman.github.io/projects.io",
-    "theme": "//karthicklaksman.github.io/projects.io/themes/uno-zen",
-    "images": "https://karthicklaksman.github.io/projects.io/images"
+    "theme": "//KLblog/themes/uno-zen",
+    "images": "http://KLblog/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
