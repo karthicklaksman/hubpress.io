@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "saga"
+    "name": "the-shell"
   },
   "urls": {
     "site": "https://karthicklaksman.github.io/projects.io",
     "hubpress": "https://karthicklaksman.github.io/projects.io",
-    "theme": "//karthicklaksman.github.io/projects.io/themes/roon",
+    "theme": "//karthicklaksman.github.io/projects.io/themes/saga",
     "images": "https://karthicklaksman.github.io/projects.io/images"
   },
   "initialisationConfigComponent": {
