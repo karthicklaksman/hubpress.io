@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "casper"
+    "name": "ghostium"
   },
   "urls": {
     "site": "https://karthicklaksman.github.io/projects.io",
     "hubpress": "https://karthicklaksman.github.io/projects.io",
-    "theme": "//karthicklaksman.github.io/projects.io/themes/casper",
+    "theme": "//karthicklaksman.github.io/projects.io/themes/ghostium",
     "images": "https://karthicklaksman.github.io/projects.io/images"
   },
   "initialisationConfigComponent": {
